@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^1.8.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "jsdom": "^26.0.0",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "pdf.js": "^0.1.0",
+    "pdfjs": "^2.5.3",
+    "pdfjs-dist": "^4.10.38"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "digilaw",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
